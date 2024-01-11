@@ -1,0 +1,7 @@
+C:\Users\HP\Documents\New folder\PlayerandTeam\PlayerandTeam\bin\Debug\PlayerandTeam.exe.config
+C:\Users\HP\Documents\New folder\PlayerandTeam\PlayerandTeam\bin\Debug\PlayerandTeam.exe
+C:\Users\HP\Documents\New folder\PlayerandTeam\PlayerandTeam\bin\Debug\PlayerandTeam.pdb
+C:\Users\HP\Documents\New folder\PlayerandTeam\PlayerandTeam\obj\Debug\PlayerandTeam.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\New folder\PlayerandTeam\PlayerandTeam\obj\Debug\PlayerandTeam.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\New folder\PlayerandTeam\PlayerandTeam\obj\Debug\PlayerandTeam.exe
+C:\Users\HP\Documents\New folder\PlayerandTeam\PlayerandTeam\obj\Debug\PlayerandTeam.pdb
